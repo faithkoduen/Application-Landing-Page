@@ -91,7 +91,7 @@
     gap: 5cm;
 }
 .icons{
-    gap: 6cm;
+    gap: 3cm;
     display: flex;
     
 }
@@ -171,6 +171,7 @@
 
 .jorina{
     gap: 3cm;
+    display: flex;
 }
 .mobile-interface{
     display: flex;
@@ -182,6 +183,7 @@
 }
 .businessman{
     display: flex;
+    gap: 12cm;
 }
 .clients{
     font-size: xx-large;
