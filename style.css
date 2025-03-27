@@ -1,0 +1,243 @@
+*{
+    overflow-x: hidden;
+}
+
+.header{
+    display: flex;
+}
+.items{
+    display: flex;
+    gap: 3cm;
+    margin-left: 5cm;
+    justify-items: center;
+
+
+}
+.items li{
+    list-style-type: none;
+}
+.login{
+    gap: 4cm;
+     margin-left: 10cm;
+     display: flex;
+     
+}
+.dit.io{
+    margin-bottom: 2cm;
+    
+}
+.sentence{
+    font-family: anto;
+    font-size: xx-large;
+
+    
+}
+.sentence span{
+    color: orangered;
+    text-decoration: underline;
+    
+    
+
+}
+.store span{
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.westervelt{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.assistant{
+    display: flex;
+    gap: 2cm;
+}
+.feature{
+    display: flex;
+    gap: 4cm;
+    background-color: rgb(218, 227, 233);
+    margin-top: 6cm;
+}
+.receipt{
+    rotate: (356 deg);
+}
+.monthly-salary{
+    display: flex;
+}
+.headshot{
+   
+    
+    
+}
+#loading{
+    margin-right: 2cm;
+}
+.girls-faces{
+    margin-left: 2cm;
+    margin-bottom: -2cm;
+    offset-rotate: 355;
+}
+.software{
+    margin-top: 3cm;
+    
+}
+.software-business{
+    text-align: center;
+    font-size: xx-large;
+}
+.all-icons{
+    display: flex;
+    gap: 5cm;
+}
+.icons{
+    gap: 6cm;
+    display: flex;
+    
+}
+.work{
+    text-align: center;
+    font-size: xx-large;
+}
+.work span{
+    color: orangered;
+    text-decoration: underline;
+}
+.deliverd{
+    display: flex;
+    gap: 10cm;
+    margin-top: 2cm;
+}
+#heading{
+    font-size: x-large;
+}
+#images{
+    margin-right: 2cm;
+}
+.download-users{
+    display: flex;
+    gap: 2cm;
+}
+.subscribers-group{
+    display: flex;
+    gap: 2cm;
+}
+.create-account{
+    display: flex;
+}
+.product{
+    margin-top: 4cm;
+}
+.pricing{
+    display: flex;
+    gap: 10cm;
+    margin-top: 3cm;
+}
+.numbers{
+    font-size: xx-large;
+}
+.helping{
+    font-size: xx-large;
+    
+}
+.helping span{
+    color: orangered;
+    text-decoration: underline;
+}
+.customer{
+    margin-top: 3cm;
+}
+
+.ipsum span{
+    color: orangered;
+    text-decoration: underline;
+}
+.second-image{
+    margin-left: 5cm;
+    margin-bottom: 5cm;
+}
+.study{
+    margin-top: -5cm;
+    
+}
+.login{
+
+}
+.signup{
+    height: 1.7cm;
+    width: 5cm;
+    color: palevioletred;
+}
+
+.jorina{
+    gap: 3cm;
+}
+.mobile-interface{
+    display: flex;
+    margin-bottom: 3cm;
+    gap: 3cm;
+}
+.helping{
+    text-align: center;
+}
+.businessman{
+    display: flex;
+}
+.clients{
+    font-size: xx-large;
+    text-align: center;
+}
+.clients span{
+    color: orangered;
+    text-decoration: underline;
+}
+.download{
+    display: flex;
+    gap: 3cm;
+    /* margin-top: -3cm; */
+}
+.download-users{
+    font-size: xx-large;
+
+}
+.subscribers-group{
+    font-size: xx-large;
+
+}
+.mobile-app-store{
+    margin-top: 3cm;
+}
+.apps{
+    display: flex;
+    gap: 2cm;
+}
+.mobile-app{
+    font-size: xx-large;
+}
+.footer{
+    display: flex;
+    gap: 4cm;
+    background-color: rgb(48, 40, 54);
+    color: white;
+    padding: 2.4cm;
+}
+.reserved{
+    display: flex;
+    gap: 6cm;
+    background-color: black;
+    color: white;
+}
+.our-product li{
+    list-style-type: none; 
+
+}
+.top-features li{
+    list-style-type: none;  
+}
+.company li{
+    list-style-type: none;   
+}
+.resources li{
+    list-style-type: none; 
+}
+
